@@ -1,6 +1,14 @@
 # FlexPlayer
 Command Line Youtube Player, uses python, mpv and tinydb[to store your playlist]
 
+## Features
+- **Play** one of your existing playlist or **all**(all songs mean: all the indivial unique songs in your playlist)
+- **Add Song** to your existing playlist or a new one by searching and choosing from youtube
+- **Manage Playlist** view one of your existing playlist or delete one of them
+- **Browse Youtube** Search and play anything from youtube
+- **Youtify** A feature that allows your to have a spotify playlist in the form of csv **(MUST be generated through [exportify.net](https://exportify.net/) )**
+That's it for now! More Features are coming soon!
+
 ## Requirements
 - Install **mpv** and add directory to **path** 
 - Install the following python packages:
